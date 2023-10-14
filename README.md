@@ -31,7 +31,7 @@ The model is trained and tested on a dataset of diabetes-related health informat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction-svm.git
+   git clone https://github.com/meankitdas/diabetes_prediction_model.git
 
 2. Navigate to the project directory:
 
